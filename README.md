@@ -13,7 +13,7 @@
         - **U-Net model** (PNG visualization provided).
         - Optimized for medical image segmentation.
     - Training Details:
-        - Comprehensive **Jupyter notebook** (train.ipynb) guides you through:
+        - Comprehensive **Jupyter notebook** (segmentation.ipynb) guides you through:
             - Data loading and preprocessing.
             - Model training.
             - Performance evaluation.
