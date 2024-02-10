@@ -34,7 +34,7 @@
 
 ### Contact
 
-- Questions or suggestions? Email: [Pooria_heydarian@gmail.com]
+- Questions or suggestions? Email: [Pooriaheydarianuni@gmail.com]
 
 **Disclaimer:**
 
